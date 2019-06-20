@@ -1,0 +1,101 @@
+iba_label,priority,n,iba_name,longitude,latitude,area_ha
+UK001,1,6,Abberton Reservoir,0.86416,51.8251,716
+SE055,2,4,Ottenby,16.4,56.2,1610
+SE060,3,3,Bay of Lommabukten,13.0063,55.6881,5600
+FI078,4,2,Laajalahti bay,24.9333,60.2,1274
+PL032,5,3,Warta flood-plain-Slonsk,14.7167,52.5667,4244
+DK111,6,8,Vestamager and adjacent sea area,12.5333,55.5833,6210
+NL056,7,5,De Deelen,5.9167,53.0333,1260
+PL080,8,2,Central Polish coastal waters,18.2833,54.8166,272500
+PL013,9,2,Wisla river mouth,18.95,54.35,485
+DK053,10,2,Fanø,8.4,55.4333,4370
+PL012,11,3,Puck Bay,18.6167,54.5667,56000
+UK077,12,6,The Wash,0.29,52.9366,69908
+NL044,13,3,Lake Gooimeer,5.2,52.3167,2670
+DE311,14,2,Conventer See,11.9166,54.1333,1830
+PL054,15,1,Barycz river valley,17.4167,51.5333,25700
+DE470,16,1,Elbe meadows at Großes Ostragehege Dres,13.7,51.0666,70
+SE061,17,2,Falsterbo-Bay of Foteviken,12.9167,55.4167,20000
+UK073,18,1,Thames Estuary and Marshes,0.53333,51.4666,9357
+LT030,19,2,Zuvintas,23.6,54.4667,5442
+NL051,20,4,Biesbosch,4.8333,51.7667,9050
+NL071,21,1,Ilperveld,4.9333,52.45,1960
+DE288,22,1,Wismar bay and Salzhaff,11.4333,54.0166,102030
+NL002,23,3,Texel: Schorren and Zeeburg,4.9,53.1333,1600
+FI082,24,1,Kirkkonummi archipelago,24.5,59.9333,11808
+DE468,25,1,Moritzburger Kleinkuppenlandschaft,13.75,51.1666,3085
+NL001,26,7,Wadden Sea,5.3833,53.3,272100
+DK065,27,2,Rømø,8.5333,55.05,7010
+SE037,28,1,Bay of Svensksundsviken,16.4166,58.5833,3300
+DE456,29,2,Leipziger Auwald,12.3,51.3666,5738
+UK016,30,5,Deben Estuary,1.34416,52.0423,977
+NL096,31,4,Loonse and Drunense Duinen,5.1,51.65,4090
+SE045,32,1,Bay of Kungsbackafjorden,12.1,57.4,4000
+LT002,33,1,Seashore at Nida,20.85,55.6333,77000
+DK088,34,2,Nakskov Fjord and Indre Fjord,11.0333,54.8333,8550
+DK130,35,3,Smålandsfarvandet,11.4666,55.0666,135300
+NL011,36,2,Rottumerplaat,6.5,53.5333,782
+DK079,37,1,Ertholmene east of Bornholm,15.1833,55.3167,1257
+UK025,38,1,Bowland Fells,-2.5158,53.9815,79978
+DK047,39,1,Lillebælt,9.7167,55.35,35060
+NL040,40,2,Lake Zwartemeer,5.9667,52.6333,2180
+LT054,41,1,Buda and Pravieniskes forests,24.25,54.9166,7600
+DE151,42,1,Lower Havel - Lake Schollene - Lake Gül,12.2666,52.75,16775
+LT032,43,1,Aukstaitija National Park,26.0333,55.3666,30000
+PL015,44,1,Druzno lake,19.45,54.0667,3021
+DK110,45,2,Saltholm,12.8333,55.6667,7240
+UK002,46,1,Alde - Ore Estuary,1.55616,52.0045,2520
+DK098,47,1,Sprogø and Halsskov Rev,11,55.3333,4920
+LT003,48,1,Kuronian lagoon,21.1667,55.4167,9720
+UK011,49,2,Broadland,1.53716,52.6693,5402
+SE073,50,1,Blekinge Archipelago,15.15,56.1333,59300
+FI071,51,1,Kirkkojärvi lake and Lupinlahti bay,27.2333,60.5667,760
+DE415,52,1,Uckertal / Unteruckersee,13.85,53.3333,10236
+LT009,53,1,Minija River and Lower Babrungas,21.3833,55.6833,3000
+NL092,54,1,Dunes of Schoorl,4.6667,52.7,2500
+NL020,55,3,Voordelta,3.5833,51.7167,107000
+DE396,56,1,Havelseen Werder-Potsdam,12.9666,52.3333,2336
+FI083,57,3,Pori archipelago and wetlands,21.6,61.5333,15441
+FI028,58,2,Oulu region wetlands,25.1667,64.9167,81781
+NL045,59,1,Lake Eemmeer,5.3167,52.2833,1340
+LV018,60,2,Gulf of Riga,23.1833,57.2333,120000
+FI041,61,1,Kokkola and Kälviä archipelago,23.0667,63.9333,20340
+UK007,62,2,Benfleet and Southend Marshes,0.66666,51.5166,2373
+FI048,63,1,Lålby fields,21.4667,62.2667,200
+UK084,64,1,Bae Caerfyrddin/Carmarthen Bay,-4.4755,51.6696,33294
+SE050,65,2,Coastal areas around Gotland island,18.95,57.4,152500
+NL042,66,1,Lake Veluwemeer,5.6667,52.3833,3390
+NL049,67,1,Rijn: Heteren-Amerongen,5.6667,51.95,2480
+UK066,68,1,Stour and Orwell Estuary,1.16533,51.9566,3670
+DE160,69,1,Lower Rhine,6.4,51.7666,48295
+NL057,70,1,Van Oordt's Mersken,6.0833,53.05,670
+UK068,71,2,The Swale,0.84283,51.3606,6486
+NL029,72,1,Zoommeer,4.2,51.5,1175
+IT064,73,1,Venice lagoon,12.4667,45.3667,68982
+UK040,74,2,Medway Estuary and Marshes,0.66433,51.3996,4668
+LV022,75,1,Babite lake,23.7333,56.9166,3052
+NL068,76,2,Eilandspolder,4.85,52.5667,2040
+FI043,77,1,Luoto archipelago,22.6333,63.7833,17240
+FI076,78,1,Porvoonjoki Delta,25.6667,60.35,899
+DK075,79,1,Odense Fjord,10.5667,55.5,5060
+LT020,80,1,Vasaknos fish-ponds,25.8,55.7,800
+BE018,81,1,Gebieden ten noorden van Turnhout en Ra,5,51.3833,7075
+NL032,82,2,Westerschelde and Saeftinghe,3.8333,51.3833,50800
+DK109,83,2,Furesø and Farum Sø,12.4167,55.8,1290
+IT193,84,2,Argentario,11.3167,42.4,12164
+UK010,85,1,Breydon Water,1.63133,52.5845,2091
+DE275,86,1,Aisch-Regnitz-Grund,10.9166,49.75,50698
+NL024,87,1,Haringvliet,4.25,51.7667,10900
+NL082,88,1,Fochteloërveen and Lake Esmeer,6.4,53.0167,3830
+NL065,89,2,De Wieden,6.05,52.7,9400
+FR239,90,2,Camargue,4.6,43.5167,76500
+NL019,91,1,Zwanenwater,4.7,52.8167,600
+NL054,92,1,Groote Wielen,5.8667,53.2167,600
+NL043,93,1,Lake Wolderwijd,5.5833,52.35,2750
+NL060,94,1,Lake Witte and Zwarte Brekken,5.6833,53,460
+DK032,95,1,Ørkenen and Totten (Anholt Island),11.5833,56.7167,2000
+DK008,96,1,Coast from Aggersund to Bygholm Vejle,9.1667,57.0333,1660
+SE031,97,1,Lake Tysslingen,15.0333,59.3,600
+SE063,98,1,River Helgeån,14.15,56.0167,5300
+NO045,99,1,Lista wetland system,6.6667,58.0833,1189
+FR051,100,1,Marais arrières littoraux picards,1.7,50.2667,5550
