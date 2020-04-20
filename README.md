@@ -1,4 +1,4 @@
-# **Phylogenetically-conserved bird migration networks determines the incidence of avian flu**
+# **Phylogenetically-conserved bird migration networks determines the distribution of avian flu**
 
 ## Data set and R code used in this study: 
 
